@@ -6,8 +6,8 @@
     "data_size": 142,
     "nom_orig": "Lisa",
     "texte_orig": "Aiyah![SP]Wait[SP]wait[SP]wait![SP]We[SP]don't[SP]have[SP]any\nreason[SP]to[SP]come[SP]here!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Hepepep! On a pas le temps pour les visites"
   },
   {
     "id": 1,
@@ -16,7 +16,7 @@
     "data_size": 144,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]Wait[SP]wait[SP]wait![SP]We[SP]don't[SP]have[SP]any\nreason[SP]to[SP]come[SP]here!",
-    "nom_fr": "",
+    "nom_fr": "Aiyah! C'est pas le moment de se la couler douce",
     "texte_fr": ""
   },
   {
@@ -26,8 +26,8 @@
     "data_size": 226,
     "nom_orig": "???",
     "texte_orig": "Oh?[1205][001E][SP]You're[SP]home,[SP]Lisa?[1205][001E][SP]I[SP]told[SP]you,[SP]in[SP]this\nhouse,[SP]when[SP]you[SP]come[SP]home[SP]you[SP]must[SP]report\nto[SP]your[SP]father.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???"
+    "texte_fr": "Oh?, Déjà de retour ma Chérie? Je t'ai déjà dit que sous ce toit, quand tu rentre, tu dois avertir to père?"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 316,
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "père de Lisa",
+    "texte_fr": "Une jolie demoiselle nipponne doit être modeste, calme, obéissante, pieurse et avant tout honorer sa maison. Oh, ta lesson de chai commence."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 226,
     "nom_orig": "???",
     "texte_orig": "Oh?[1205][001E][SP]You're[SP]home,[SP]Lisa?[1205][001E][SP]I[SP]told[SP]you,[SP]in[SP]this\nhouse,[SP]when[SP]you[SP]come[SP]home[SP]you[SP]must[SP]report\nto[SP]your[SP]father.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Oh?, Déjà de retour ma Chérie. Je t'ai déjà dit que sous ce toit, quand tu rentre, tu dois avertir to père?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 316,
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Lisa",
+    "texte_fr": "Une jolie demoiselle nipponne doit être modeste, calme, obéissante, pieurse et avant tout honorer sa maison. Oh, ta lesson de chai commence."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 184,
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei![SP]Shut[SP]up![1205][001E][SP]Ngo[SP]Faan[SP]Lai[SP]Laa,\nI'm[SP]ho[1205][U+000A]oo[1205][U+000A]oo[1205][U+000A]oo[1205][U+000A]ome![1205][001E][SP]There,[SP]happy[SP]now!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Kehhei! Tait-toi! Ngo Faan Lai Laa/Ohayo Goza-imaaaaaaaas! Voila, content maintenant?"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 284,
     "nom_orig": "Lisa",
     "texte_orig": "Ever[SP]looked[SP]around[SP]at[SP]Japanese[SP]ladies[SP]these\ndays!?[SP]They[SP]go[SP]to[SP]clubs[SP]and[SP]party[SP]all[SP]night\nwith[SP]guys![SP]I'm[SP]doing[SP]exactly[SP]like[SP]you[SP]asked!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Non mais oh, tu les as vu les japonaises? Elles vont dans des Boums et dancer avec des mecs toute la nuit! J'fais exactement c'que tu me raconte!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 186,
     "nom_orig": "Ginko",
     "texte_orig": "Kehhei![SP]Shut[SP]up![1205][001E][SP]Ngo[SP]Faan[SP]Lai[SP]Laa,\nI'm[SP]ho[1205][U+000A]oo[1205][U+000A]oo[1205][U+000A]oo[1205][U+000A]ome![1205][001E][SP]There,[SP]happy[SP]now!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Kehhei! Tait-toi! Ngo Faan Lai Laa/Ohyo Goza-imaaaaaaas! Voila, content maintenant?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 286,
     "nom_orig": "Ginko",
     "texte_orig": "Ever[SP]looked[SP]around[SP]at[SP]Japanese[SP]ladies[SP]these\ndays!?[SP]They[SP]go[SP]to[SP]clubs[SP]and[SP]party[SP]all[SP]night\nwith[SP]guys![SP]I'm[SP]doing[SP]exactly[SP]like[SP]you[SP]asked!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Non mais oh, tu les as vu les japonaises? Elles vont dans des Boums et dancer avec des mecs toute la nuit! J'fais exactement c'que tu'm raconte!"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 224,
     "nom_orig": "Eikichi",
     "texte_orig": "P-Proper[SP]Japanese[SP]lady!?[1205][001E][SP]I[SP]wondered[SP]what[SP]kind\nof[SP]classy[SP]family[SP]lived[SP]here,[SP]but[SP]it[SP]was[SP]HER\nhouse!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "J-j-jolie demoiselle japonaise, elle??? J'me d'mendait bien quel genre d'aristots vivait sous ce toit, mais j'pensait pas qu'ça lui appartenait"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 256,
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]that's[SP]her[SP]dad,[SP]and[SP]this[SP]is[SP]her[SP]house...[1205][001E]\nShe's[SP]a[SP]white[SP]girl[SP]who[SP]uses[SP]Cantonese...[1205][001E]\nWhat[SP]country[SP]IS[SP]she[SP]from!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ce type est son père... et c'est sa barraque.../ mais c'est une blanche qui parle en chinoiseries... Mais elle sort d'où celle-là??"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 230,
     "nom_orig": "Lisa",
     "texte_orig": "And[SP]why[SP]are[SP]you[SP]always[SP]wearing[SP]a[SP]hakama!?\nIt[SP]doesn't[SP]look[SP]good![SP]It[SP]just[SP]looks[SP]hot!\nArrrrrgh![SP]Let's[SP]go,[SP][U+1113]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Et pourquoi t'es en kimono!?/Il est moche! Avec cette chaleur tu vas te griller les neurones!\ Raaaaah! on se casse!"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 232,
     "nom_orig": "Ginko",
     "texte_orig": "And[SP]why[SP]are[SP]you[SP]always[SP]wearing[SP]a[SP]hakama!?\nIt[SP]doesn't[SP]look[SP]good![SP]It[SP]just[SP]looks[SP]hot!\nArrrrrgh![SP]Let's[SP]go,[SP][U+1113]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": Ginko"",
+    "texte_fr": "Et pourquoi t'es en kimono!?/t'es plus un acteur! Avec cette chaleur tu vas te griller les neurones!\ Raaaaah! on se casse!"
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 176,
     "nom_orig": "Maya",
     "texte_orig": "Guess[SP]Lisa[SP]doesn't[SP]get[SP]along[SP]with[SP]her[SP]dad...[1205][001E]\nShe's[SP]lucky[SP]to[SP]even[SP]have[SP]one...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Et beh, Lisa et son père s'entendent comme chien et chat...\ au moins elle a la chance de toujour l'avoir..."
   },
   {
     "id": 15,
@@ -156,7 +156,7 @@
     "data_size": 492,
     "nom_orig": "Maya",
     "texte_orig": "Lisa's[SP]relationship[SP]with[SP]her[SP]father[SP]seems\nstrained.[SP]What[SP]a[SP]burden[SP]for[SP]her[SP]parents[SP]to\nhave[SP]such[SP]a[SP]rebellious[SP]child.[SP]The[SP]poor[SP]man.[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nMy[SP]dad[SP]ran[SP]off[SP]one[SP]day[SP]with[SP]another[SP]woman...[1205][001E]\nI'd[SP]only[SP]kick[SP]his[SP]ass[SP]if[SP]I[SP]ever[SP]saw[SP]him[SP]again.",
-    "nom_fr": "",
+    "nom_fr": "Maya",
     "texte_fr": ""
   },
   {
@@ -166,8 +166,8 @@
     "data_size": 230,
     "nom_orig": "Jun",
     "texte_orig": "Her[SP]father...[1205][U+000F][SP]Yes.[SP]I've[SP]always[SP]wanted[SP]to\nhave[SP]something[SP]like[SP]this[SP]to[SP]defend.[SP]I[SP]was\nso[SP]jealous[SP]of[SP]Lisa...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Son père... Ah vrai dire, j'ai toujours souhaiter avoir une famille comme ça à protéger. Désolé de t'avoir jalouser, Lisa"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 178,
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "What[SP]is[SP]it,[SP]young[SP]man?[SP]Is[SP]there[SP]something\nyou[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Lisa",
+    "texte_fr": "Qui-a-t-il, jeune homme? Nyah-t-il pas quelque chose que tu souhaiterais me dire?"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 180,
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "What[SP]is[SP]it,[SP]young[SP]man?[SP]Is[SP]there[SP]something\nyou[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Ginko",
+    "texte_fr": "Qui-a-t-il, jeune homme? Nyah-t-il pas quelque chose que tu souhaiterais me dire?"
   },
   {
     "id": 19,
@@ -206,8 +206,8 @@
     "data_size": 304,
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Ginko",
+    "texte_fr": "Un concour, tu dis? Non je n'ai rien reçu... Serais-tu en avance? Revient-donc lorsque le soleil aura finit sa course."
   },
   {
     "id": 21,
@@ -216,8 +216,8 @@
     "data_size": 60,
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "Hm.[SP]I[SP]see.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Lisa",
+    "texte_fr": "Hm, Sore-wa..."
   },
   {
     "id": 22,
@@ -226,8 +226,8 @@
     "data_size": 62,
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "Hm.[SP]I[SP]see.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Ginko",
+    "texte_fr": "Hum, sore-wa..."
   },
   {
     "id": 23,
@@ -266,8 +266,8 @@
     "data_size": 198,
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "We[SP]used[SP]to[SP]spend[SP]so[SP]much[SP]time[SP]together...[1205][001E]\nWhy[SP]has[SP]she[SP]become[SP]so[SP]rebellious...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Lisa",
+    "texte_fr": "On était si proche l'un de l'autre... Pourquoi est elle devenue aussi fougueuse...?"
   },
   {
     "id": 27,
@@ -276,7 +276,7 @@
     "data_size": 232,
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "What[SP]a[SP]tragedy...[1205][001E][SP]She's[SP]still[SP]bent[SP]on[SP]using\nCantonese[SP]rather[SP]than[SP]her[SP]beautiful[SP]native\ntongue.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Quelle deception... Elle préfère le patois cantonais à son si gracieux dialecte maternel."
   }
 ]
